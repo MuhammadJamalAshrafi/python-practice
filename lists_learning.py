@@ -6,7 +6,7 @@
 #   5. May - 2190
 #
 # Create a list to store these monthly expenses and using that find out,
-expenses=[2200, 2350, 2600, 2130, 2190]
+expenses = [2200, 2350, 2600, 2130, 2190]
 #
 # 1. In Feb, how many dollars you spent extra compare to January?
 print(f"In Feb this much extra was spent compared to jan: {expenses[1] - expenses[0]}")
@@ -26,7 +26,7 @@ print(f"Expenses after 200$ return in April: {expenses}")
 # 2. You have a list of your favourite marvel super heros
 # heros=['spider man','thor','hulk','iron man','captain america']
 # Using this list
-heros=['spider man','thor','hulk','iron man','captain america']
+heros = ['spider man', 'thor', 'hulk', 'iron man', 'captain america']
 # 1. Length of the list
 print(len(heros))
 # 2. Add 'black panther' at the end of this list
