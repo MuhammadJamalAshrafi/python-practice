@@ -41,4 +41,5 @@ def print_pattern(n):
         for j in range(i+1):
             s += '*'
         print(s)
-print_pattern(3)
+        
+print_pattern(5)
